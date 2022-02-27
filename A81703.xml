@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cleere antithesis, or, diametrall [sic] opposition betweene presbytery and prelacy wherein is apparently demonstrated, whither government be most consonant and agreeable to the word of God.</title>
+            <title>Appeale to every impartiall, judicious, and godly reader.</title>
+            <author>Downing, Calybute, 1606-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81703</idno>
+            <idno type="STC">Wing D2099</idno>
+            <idno type="STC">Thomason E17_7</idno>
+            <idno type="STC">ESTC R23496</idno>
+            <idno type="EEBO-CITATION">99872013</idno>
+            <idno type="PROQUEST">99872013</idno>
+            <idno type="VID">124433</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124433)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E17[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cleere antithesis, or, diametrall [sic] opposition betweene presbytery and prelacy wherein is apparently demonstrated, whither government be most consonant and agreeable to the word of God.</title>
+                  <title>Appeale to every impartiall, judicious, and godly reader.</title>
+                  <author>Downing, Calybute, 1606-1644.</author>
+               </titleStmt>
+               <extent>[4], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Coules, and Henry Twyford,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reissue, with an additional title page, of:  Downing, Calybute.  An appeale to every impartiall, judicious, and godly reader: whether the presbyterie or prelacie be the better church-government, according to the Word of God, London, 1641.</note>
+                  <note>Annotation on Thomason copy: "Written by Dr Calibut Downing"; "Nouemb: 15th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Apologetic works.</term>
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124433:1" rendition="simple:additions"/>
+            <p>THE Cleere Antitheſis OR DIAMETRALL OPPOSITION BETWEENE PRESBYTERY AND PRELACY.</p>
+            <p>Wherin is apparently demonſtrated, whither Government be moſt Conſonant and Agreeable to the Word of GOD.</p>
+            <p>LONDON, Printed for <hi>Francis Coules,</hi> and <hi>Henry Twyford,</hi> Anno Dom. 1644.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:124433:2"/>
+            <pb facs="tcp:124433:2" rendition="simple:additions"/>
+            <p>AN APPEALE TO Every Impartiall, Iudicious, and Godly <hi>READER:</hi> WHETHER THE Presbyterie or Prelacie Be the better Church-Government, ac<g ref="char:EOLhyphen"/>cording to the Word of God; being duely compared the one with the other.</p>
+            <p>
+               <hi>By a judicious and learned Divine.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Coules,</hi> and <hi>Henry Twyford:</hi> Anno Dom. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="comparison">
+            <pb facs="tcp:124433:3"/>
+            <pb n="1" facs="tcp:124433:3"/>
+            <head>THE PRESBYTERIE AND PRELACIE COMPARED.</head>
+            <argument>
+               <p>Whereby it may appeare, whether of them is more for the ſafety of ſoules, the reformation of mens lives, the advancement of a pure worſhip, the practiſe of godlineſſe, the aboliſhment of Po<g ref="char:EOLhyphen"/>pery and prophaneneſſe; with the rooting out of Sects and Schiſmes, and for preſerva<g ref="char:EOLhyphen"/>tion of Unity and Peace amongſt us.</p>
+            </argument>
+            <div n="presbytery" type="part">
+               <head>The Presbyterie.</head>
+               <p n="1">I. <seg rend="decorInit">T</seg>His is found in Holy Writ, and the Holy Ghoſt is pleaſed to men<g ref="char:EOLhyphen"/>tion it by name, (1 <hi>Tim.</hi> 4. 14.) for the due honour there<g ref="char:EOLhyphen"/>of.</p>
+               <p n="2">II. This conſiſts of Presbyters, called
+<pb n="2" facs="tcp:124433:4"/>
+Elders, 1 <hi>Tim.</hi> 5. 17. or Parochiall Biſhops, or Biſhops of particular Congregations, <hi>Acts</hi> 20. 17, 28. <hi>Phil.</hi> 1. 1. of equall authority a<g ref="char:EOLhyphen"/>mong themſelves, not Lording over Gods heritage.</p>
+               <p n="3">III. Theſe have a divine Inſtitution by the Holy Ghoſt, <hi>Acts</hi> 20. 28. and are ordained by the Apoſtles, <hi>Acts</hi> 14. 23. and by the Apoſtles commandment, <hi>Titus</hi> 1. 5. 7. and have warrant we ſee from the Ca<g ref="char:EOLhyphen"/>nonicall Scriptures.</p>
+               <p n="4">IV. Theſe were joyned with the A<g ref="char:EOLhyphen"/>poſtles, and ſate in the Councell at <hi>Ieruſalem</hi> with them; and with them made and ſent out by the di<g ref="char:EOLhyphen"/>rection of the Holy Ghoſt the De<g ref="char:EOLhyphen"/>crees, <hi>Acts</hi> 15. 4. 6. 22. 23. 28. &amp; 16. 4. &amp; 21. 18. 25.</p>
+               <p n="5">V. Theſe Elders were they who by divine authority did rule, they were called Elders that ruled, of ſuch ſpeaketh the Apoſtle, 1 <hi>Tim.</hi> 5. 17. <hi>Heb.</hi> 13. 24. and the people had an Apoſtolicall charge, to know them to be over them, in 1 <hi>Theſſ.</hi> 5. 12. and to rule over them, <hi>Heb.</hi> 13. 7. and the people were to obey them, and ſubmit to them, <hi>Verſ.</hi> 17. What can be more clearely delivered out of the Text.</p>
+               <pb n="3" facs="tcp:124433:4"/>
+               <p n="6">VI. The rule of theſe was Ariſtocra<g ref="char:EOLhyphen"/>ticall and conjoynt, and therefore we reade plurally of Elders; the Biſhops in one Citie, <hi>Acts.</hi> 20. 17. <hi>Phil.</hi> 1. 1. Yea, Elders were ordai<g ref="char:EOLhyphen"/>ned in every Church and Citie; <hi>Acts</hi> 14. 23. <hi>Titus</hi> 1. 5.</p>
+               <p n="7">VII. Theſe rule after God, according to his Word, and according to ſuch Conſtitutions as ſhall be genera<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly (with one conſent) agreed upon, and warranted by the Word.</p>
+               <p n="8">VIII. Theſe can and doe rule ſpiritually after a ſpirituall manner, Without pompe and great revenues, With<g ref="char:EOLhyphen"/>out a traine of domeſticke atten<g ref="char:EOLhyphen"/>dants; Without their Chancellors and Archdeacons, Commiſſaries, and Officials, Surrogates; Without Advocates, Doctors, and Proctors; Without charge of great fees, and pecuniary mulcts; Without their priſons corporally to puniſh Delin<g ref="char:EOLhyphen"/>quents.</p>
+               <p n="9">IX. Theſe uſe no baſe nor no lewd companions to come to call Delin<g ref="char:EOLhyphen"/>quents before them.</p>
+               <p n="10">X. Theſe calling offendors before
+<pb n="4" facs="tcp:124433:5"/>
+them, proceed religiouſly with them onely, ſeeking their reforma<g ref="char:EOLhyphen"/>tion and amendment; (and ſo they finde it) and not to ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e game of the people, nor doe they ever ex<g ref="char:EOLhyphen"/>communicate any for not paying fees.</p>
+               <p n="11">XI. Theſe oppoſe all corruptions in Gods worſhip, the life and do<g ref="char:EOLhyphen"/>ctrine in all ſorts, as well in the Clergie as Laitie, without reſpect of perſons, to honour thereby their Chriſtian profeſſion, and to procure glory to God, and ſalvation to ma<g ref="char:EOLhyphen"/>ny ſoules.</p>
+               <p n="12">XII. Theſe make and ordaine a prea<g ref="char:EOLhyphen"/>thing Miniſtry, ſetting over every particular Congregation a ſit Pa<g ref="char:EOLhyphen"/>ſtor, reſident and painfull, onely at<g ref="char:EOLhyphen"/>tending his <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ecke, and wholy gi<g ref="char:EOLhyphen"/>ving himſelfe unto his Miniſtry, and not putting off his charge to a Cu<g ref="char:EOLhyphen"/>rate.</p>
+               <p n="13">XIII. Theſe allow not any one of them upon himſelfe to ordaine.</p>
+               <list>
+                  <item>1. Any Miniſter alone.</item>
+                  <item>2. Nor any man altogether to be Miniſter, without a particular ſlock to attend upon.</item>
+                  <item>3. Not to bee made to pay any thing for his Ordination, for a Li<g ref="char:EOLhyphen"/>cenſe
+<pb n="5" facs="tcp:124433:5"/>
+to preach, for Inſtitutions and Inductions.</item>
+                  <item>4. Not to ſweare Canonicall o<g ref="char:EOLhyphen"/>bedience to them.</item>
+               </list>
+               <p n="14">XIV. Theſe Ordaining Miniſters doe throughly try them, not childiſhly by asking of queſtions read out of a booke, and anſwers made thereto upon the ſame booke; but in wiſedome as ſhall bee thought fitting for them to aske, and the Ordained to anſwer unto with underſtanding, and this is done with faſting and prayer very ſo<g ref="char:EOLhyphen"/>lemnely.</p>
+               <p n="15">XV. Theſe having thus ordained Pa<g ref="char:EOLhyphen"/>ſtors over Congregations, preſſe them to preach unto their flockes, and thereof to be very carefull, or elſe ſhall they bee called before them, and cenſured for neglect of their duty herein.</p>
+               <p n="16">XVI. Theſe impoſe not needleſſe Ce<g ref="char:EOLhyphen"/>remonies; Croſſe, and the Surplice, and ſuch like, to bee uſed in the time of Gods worſhip; for they obſerve the Apoſtolicall rules for indifferent things, and know how grievouſly they ſhould ſinne in im<g ref="char:EOLhyphen"/>poſing any ſuch things upon Mini<g ref="char:EOLhyphen"/>ſters,
+<pb n="6" facs="tcp:124433:6"/>
+not ſufficiently perſwaded of the lawfulneſſe thereof.</p>
+               <p n="17">XVII. Theſe puniſh no Miniſters for neglecting any indifferent, but for neglect of performing neceſſary duties to God and men.</p>
+               <p n="18">XVIII. Theſe ſeeke Paſtors for to feed the people, and to fit them for the Congregations, as they are leſſe or greater, and learned or otherwiſe, and may be moſt for the perfecting of the Saints, the worke of the Mi<g ref="char:EOLhyphen"/>niſtry, and the edifying the body of Chriſt, <hi>Epheſ.</hi> 4. 12. ſuch they carefully preferre without ſiniſter ends.</p>
+               <p n="19">XIX Theſe ſtudy carefully with all di<g ref="char:EOLhyphen"/>ligence to hold up goodneſſe, and that ſinne in all ſorts may be ſpee<g ref="char:EOLhyphen"/>dily cut off.</p>
+               <p n="20">XX. This Presbyterian Government therefore admitteth of foure kinds
+<pb n="7" facs="tcp:124433:6"/>
+or degrees of Aſſemblies, for the well governement of all in onely cauſes Eccleſiaſticall.</p>
+               <p n="21">XXI. The firſt is the Aſſembly of the Pariſh, called a Seſſion or Conſi<g ref="char:EOLhyphen"/>ſtory; this conſiſts of one Miniſter, commonly approved for his lear<g ref="char:EOLhyphen"/>ning, his life, and diſcretion in go<g ref="char:EOLhyphen"/>vernement. Secondly, of certaine men called Elders, men of beſt knowledge and holieſt life in all the Pariſh: their number are moe or fewer, according to the large<g ref="char:EOLhyphen"/>neſſe or ſinallneſſe of the Pariſhio<g ref="char:EOLhyphen"/>ners; they are choſen with the peoples conſent in their preſence, and ſolemnely admitted to their charge: their meeting is weekely, by theſe (to wit, the Paſtor and Elders) are Pariſhes well ordered, as the Law of God, and Law Ec<g ref="char:EOLhyphen"/>cleſiaſticall of the Land appoint them, according to the Word. To theſe Aſſemblies come another ſort called Deacons, to receive directi<g ref="char:EOLhyphen"/>ons in their duty concerning the poore; for about them is the Dea<g ref="char:EOLhyphen"/>cons employment, men grave, hol<g ref="char:EOLhyphen"/>ding the myſtery of faith in a good conſcience, 1 <hi>Tim.</hi> 3. 2.</p>
+               <pb n="8" facs="tcp:124433:7"/>
+               <p n="22">XXII. By this Aſſembly weekely at home among themſelves, the ſpi<g ref="char:EOLhyphen"/>rituall eſtate of the people is looked into; their walking alſo towards God, and one towards another in love: Religion is upheld, and the exerciſe thereof; Gods worſhip kept and upheld from pollution, Sacraments from being prophaned by the keeping backe of unworthy perſons, ſcandals and offences re<g ref="char:EOLhyphen"/>moved, abuſes reformed in breach of the Sabbath, vertue nouriſhed, &amp; vice is ſuppreſſed, in perſons and in families by the office of theſe Elders, throughout the whole Pa<g ref="char:EOLhyphen"/>riſh, to the joy of well-doers, and without chargeable expences to the Delinquents.</p>
+               <p n="23">XXIII. The ſecond is, <hi>The Presbyteriall or Claſſicall meeting:</hi> which con<g ref="char:EOLhyphen"/>ſiſts of particular Paſtors of parti<g ref="char:EOLhyphen"/>cular Churches in a certain circuit, much like to our ſeverall Deana<g ref="char:EOLhyphen"/>ries; and as with us there be many Deanaries, ſo are there to be many Presbyteries.</p>
+               <p>Here an Elder of every Pariſh, appointed by the particular Seſſion thereof, doth come and meet with the Miniſters; and with theſe o<g ref="char:EOLhyphen"/>thers alſo intending the Miniſtry, who here exerciſe their gifts.</p>
+               <p>This meeting of theirs is ſome<g ref="char:EOLhyphen"/>where
+<pb n="9" facs="tcp:124433:7"/>
+once a weeke, but it may be once a fortnight, or at fartheſt once in a moneth.</p>
+               <p>This hath the power of Juriſdi<g ref="char:EOLhyphen"/>ction and Ordination, Deprivati<g ref="char:EOLhyphen"/>on, Viſitation, tryall of Proceſſe, of Excommunication from the Paro<g ref="char:EOLhyphen"/>chiall Seſſion, and direction to the Miniſter of the Pariſh to excom<g ref="char:EOLhyphen"/>municate, if need be.</p>
+               <p>Here the life and doctrine, the diligence of Miniſters (within the Presbyterie) is look'd into, and ſo the lives and behaviours of their Elders, and the diſobedience of any one to the Seſſion, is with authori<g ref="char:EOLhyphen"/>ty cenſured.</p>
+               <p>This is begun and ended with Prayer, as religious meetings ſhould ever be.</p>
+               <p n="24">XXIV. The third is called <hi>A Provinciall Synod:</hi> there be many ſuch with us as Dioceſſes.</p>
+               <p>This conſiſts of all ſuch Presby<g ref="char:EOLhyphen"/>teries within ſuch a circuit, as may be like our Dioceſſes, and every Synod is kept twice a yeare.</p>
+               <p>Hitherto come all the Miniſters, and one Elder from every Pariſh. It's begun with Prayers and Prea<g ref="char:EOLhyphen"/>ching, by a Moderator of a former Synod, who is ever here choſen; and when he hath done, another is choſen for the preſent.</p>
+               <p>Then they proceed to try all the Presbyteries, how they have orde<g ref="char:EOLhyphen"/>red
+<pb n="10" facs="tcp:124433:8"/>
+themſelves in their meetings, and faithfully diſcharged the power and authority committed to them, and this tryall is by the records pre<g ref="char:EOLhyphen"/>ſented to the Synod by the Clarke of every Presbytery. In the end they conclude with Prayer.</p>
+               <p>Here is no calling for Procurati<g ref="char:EOLhyphen"/>ons, nor purchaſing of Licenſes; no paying of money to an Apparitor, nor to a Regiſter to ſhew letters of Orders for better, and not for ſuch baſe ends is this pious Synod kept.</p>
+               <p n="25">XXV. The fourth and laſt meeting is, <hi>The Generall and Nationall Aſſembly,</hi> the higheſt Eccleſiaſticall Judica<g ref="char:EOLhyphen"/>tory, and kept commonly once a yeare at the place appointed.</p>
+               <p>This conſiſts of Miniſters and El<g ref="char:EOLhyphen"/>ders, from every Presbytery, where are alſo preſent perſons of higheſt place, and of the Nobilitie.</p>
+               <p>This is begun with a day of Hu<g ref="char:EOLhyphen"/>miliation: after which is choſen by the Aſſembly, a Miniſter to bee Moderator or Preſident. Here is handled all cauſes Eccleſiaſticall, concerning the whole Church of God, every one hath his free voice: <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hes <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>les are propoun<g ref="char:EOLhyphen"/>ded,
+<pb n="11" facs="tcp:124433:8"/>
+and ſatisfied; and whatſoever is ordained, is with conſent of all: there be alſo choſen out certaine Commiſſioners, to preſent what of all is thought fit to the Parliament, the King, the Counſell of the King, or the Convention of the Eſtates.</p>
+               <p n="26">XXVI. By this moſt happy ſubordinati<g ref="char:EOLhyphen"/>on of theſe foure, ſtands the beauty and ſtrength of the Church Go<g ref="char:EOLhyphen"/>vernment, comfortable to all godly Paſtors and Profeſſors; onely di<g ref="char:EOLhyphen"/>ſtaſtefull to Prelaticall ſpirits, to Papiſts, Atheiſts, Hereticks, Schiſ<g ref="char:EOLhyphen"/>maticks, prophane and Machiavi<g ref="char:EOLhyphen"/>llan Statiſts; for by this Governe<g ref="char:EOLhyphen"/>ment all theſe are cruſhed in them, firſt appearing in Pariſhes by the Seſſion weekely, or in the Rurall Presbytery monethly, or by the Provinciall Synod in the halfe year; but if theſe be not ſo prevalent on a ſudden, yet are they mightly ſup<g ref="char:EOLhyphen"/>preſſed once in a yeare by a Natio<g ref="char:EOLhyphen"/>nall Aſſembly.</p>
+               <p n="27">XXVII. Under this Presbyterian Go<g ref="char:EOLhyphen"/>vernment godly Miniſters and peo<g ref="char:EOLhyphen"/>ple are much encouraged, in prea<g ref="char:EOLhyphen"/>ching, in hearing, in frequenting Sermons in conferring together af<g ref="char:EOLhyphen"/>ter Sermon, in faſting and praying,
+<pb n="12" facs="tcp:124433:9"/>
+no hinderance of neighbourly and Chriſtian meetings, to reade godly means bookes, allowed to be prin<g ref="char:EOLhyphen"/>ted. No lett, but rather heartning for one to inſtruct another; to build up, to edifie one another, without wicked jealouſie of unlawfull con<g ref="char:EOLhyphen"/>venticling, whereby knowledge of God increaſeth, and brotherly love among the people.</p>
+               <p n="28">XXVIII. This doth allure none unto it, but onely the warrantableneſſe of it, the goodneſſe of it; the ſingular benefit which commeth thereby to the Churches of Chriſt, where it is erected; to wit, the ſafety of ſoules, the beating downe of ſinne and iniquity, the humbling of the people by often ſet faſtings, and other holy duties, which all that feare God ſhould more affect in Eccleſiaſticall government, then all earthly preferment.</p>
+               <p n="29">XXIX. This is the governement of the Churches of Chriſt, the reformed Churches, with which we confeſſe our ſelves to be one; and never was it eaſt out, where once it was ere<g ref="char:EOLhyphen"/>cted,
+<pb n="13" facs="tcp:124433:9"/>
+and carefully practiſed among them, as any way hurtfull to reli<g ref="char:EOLhyphen"/>gion, or the Civill State.</p>
+               <p n="30">XXX. This, ſince the beginning of Re<g ref="char:EOLhyphen"/>formation, hath beene deſired of painfull and conſcionable Teachers, and in following their deſires to enjoy it, have ſuffered much, as all know, for their writing and prea<g ref="char:EOLhyphen"/>ching, praying, and petitioning to Soveraigne Authoritie and Parlia<g ref="char:EOLhyphen"/>ment for the ſame.</p>
+               <p>Laſtly, this could never yet bee endured here; to make a tryall of it, and to diſcerne it in the happy fruits of it, as is humbly deſired by many thouſands to be admitted.</p>
+            </div>
+            <div n="prelacy" type="part">
+               <pb n="1" facs="tcp:124433:3"/>
+               <head>The Prelacie.</head>
+               <p n="1">I. <seg rend="decorInit">T</seg>His is not to be found in the Apoſtles writings, nor doth the HolyGhoſt vouchſafe to name it, as being an over-topping title which Chriſt approves not of.</p>
+               <p n="2">II. This conſiſts of Prelates, called
+<pb n="2" facs="tcp:124433:4"/>
+Dioceſan Lord Biſhops, Lording over their brethren contrary to Chriſts forbidding, <hi>Mat.</hi> 20. 25, 26. and Lording over their people, contrary to the charge of S. <hi>Peter,</hi> 1 <hi>Peter</hi> 5. 3.</p>
+               <p n="3">III. Theſe have no divine Inſtitution<g ref="char:punc">▪</g> there is for their preſent ſtanding no warrant from Chriſts word; but what they reſt upon are two falſe Poſtſcripts, Apocryphall writings added to the end of the ſecond Epi<g ref="char:EOLhyphen"/>ſtle to <hi>Timothy,</hi> and the other to <hi>Titus.</hi>
+               </p>
+               <p n="4">IV. There is no mention made of theſe kinde of Biſhops, they had then no beeing; nor was there in this Councell then any mention at all of any Biſhop, nor any as yet had that name till <hi>Pauls</hi> preaching at <hi>Epheſus,</hi> who firſt mentioned the name of Biſhops, <hi>Acts</hi> 20. 28. and yet meaning no other then Elders, <hi>Verſe</hi> 17. neither then, nor long after, <hi>Titus</hi> 1. 5. 7.</p>
+               <p n="5">V. Theſe Lordly Dioceſan Biſhops have no rule over us in the Lord; if they have, let them from Holy Scripture ſhew it as the Elders can; the truth is, the rule which theſe exerciſe is meerely humane, and from the authority of men; as hath heretofore been acknowledged by themſelves.</p>
+               <pb n="3" facs="tcp:124433:4"/>
+               <p n="6">VI. The rule of theſe is Monarchicall, and but one in a Citie, and over a great Dioceſſe, extending their power very farre beyond that they are able to performe.</p>
+               <p n="7">VII. Theſe rule after the will of man, and according to either Popiſh, or their owne deviſed Canons, thruſt upon the people after the pleaſure and luſt of ſome, without warrant from Holy Scripture: the truth of this appeares from their former and late Canons.</p>
+               <p n="8">VIII. Theſe neither can, nor doe rule ſpiritually after a ſpirituall manner; but with pompe: they cannot bear up their Prelacie, but with great revenues, with many attendants; and all theſe fore-mentioned, which the Presbyterian governe<g ref="char:EOLhyphen"/>ment hath utterly ſhaken off, as both needleſſe and very burthen<g ref="char:EOLhyphen"/>ſomely grievous.</p>
+               <p n="9">IX. Theſe uſe Apparitors and others to cite men unto their Courts, very lewd and baſe fellowes all of them, of an evill report among the peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p n="10">X. Theſe make gaine of the peoples
+<pb n="4" facs="tcp:124433:5"/>
+ſinnes by their fees, in all and eve<g ref="char:EOLhyphen"/>ry of their Courts, and ſeeke not their amendment; for what one is made the better by them? and if any of them pay not fees, they are excommunicated by them.</p>
+               <p n="11">XI. Theſe tollerate many corrupti<g ref="char:EOLhyphen"/>ons in Gods worſhip, in mens do<g ref="char:EOLhyphen"/>ctrine and lives in the Clergy; as is knowne by ſhamefull inſtances to the Houſe of Parliament, and in the Laity, who if great, fearing to meddle with them; if rich, by ma<g ref="char:EOLhyphen"/>king gaine of them; if very poore, neglecting them becauſe no money is to be had; to the great diſgrace of profeſſion, to Gods great diſho<g ref="char:EOLhyphen"/>nour, and to the fearefull damnation of many ſoules left to themſelves: of the truth thereof God and men can witneſſe.</p>
+               <p n="12">XII. Theſe make and ordaine a read<g ref="char:EOLhyphen"/>ing Miniſtry, allow Pluraliſts, Non<g ref="char:EOLhyphen"/>reſidents, idle Miniſters, many gi<g ref="char:EOLhyphen"/>ving themſelves unto the world; not a few Maſter Doctors intru<g ref="char:EOLhyphen"/>ding themſelves into ſecular af<g ref="char:EOLhyphen"/>faires, putting off their Cures to ſome poore Curates.</p>
+               <p n="13">XIII. Theſe take upon them to or<g ref="char:EOLhyphen"/>daine alone.</p>
+               <p>To Make a Miniſter without a charge: to be ſome Curate, or to employ himſelfe otherwiſe till a Li<g ref="char:EOLhyphen"/>ving fall.</p>
+               <p>To be made to pay his fees for Ordination, and Licenſe; and when
+<pb n="5" facs="tcp:124433:5"/>
+hee is to be admitted into his Li<g ref="char:EOLhyphen"/>ving, to pay for Inſtitution and In<g ref="char:EOLhyphen"/>duction, with other gratuities to the Prelates ſervants, and their gentle<g ref="char:EOLhyphen"/>men Apparators; and are forced to ſweare Canonicall obedience to their Lordly Authoritie.</p>
+               <p n="14">XIV. Theſe make Miniſters upon ſlight tryall, and in their Ordination the Biſhop out of booke readeth his queſtions, and the Parties to be Or<g ref="char:EOLhyphen"/>dain'd anſwer them, by reading in the book very babiſhly; and inſtead of faſting, the Lords day after Ember weeke; and for prayers, they reade the Letany and ſome ſhort Collects out of the book: thus ſlightly doing one of the weightieſt works of the Miniſtry in the Church of Chriſt.</p>
+               <p n="15">XV. Theſe having ordained Miniſters, Inſtituted and Inducted them, al<g ref="char:EOLhyphen"/>low them not to preach, except they come and procure a Licenſe ſo to doe: Which when they have gotten, though they ſeldome or ne<g ref="char:EOLhyphen"/>ver preach, they are never called into queſtion for the ſame: ſo be it they reade their Service.</p>
+               <p n="16">XVI. Theſe impoſe theſe Ceremonies, as ſo neceſſary, that they cry out No Ceremony, no Biſhop, though they know what S. <hi>Paul</hi> ſaith touching the uſe of things indifferent; they neither obſerve his Canons, nor fear to lay a ſtumbling-blocke before their brethren, nor to wound con<g ref="char:EOLhyphen"/>ſciences,
+<pb n="6" facs="tcp:124433:6"/>
+nor to cauſe them to pe<g ref="char:EOLhyphen"/>riſh, for whom Chriſt died, nor doe they care to ſin againſt Chriſt: of all which foure evills Saint <hi>Paul</hi> ſpeakes in the 14. of the <hi>Romans, verſ.</hi> 13. 1 <hi>Cor.</hi> 8. 11, 12.</p>
+               <p n="17">XVII. Yet theſe ſinners againſt Chriſt doe not onely ſeeke to kill ſoules, by wounding of conſciences, ma<g ref="char:EOLhyphen"/>king them to periſh; but have rui<g ref="char:EOLhyphen"/>ned many faithfull Miniſters in their eſtates, by ſuſpenſions and deprivations; yea, they have kil'd their bodies by impriſonment, and all this onely for not-conformity, paſſing by many others neglecting neceſſary duties, being conformable. O yee heavens ſtand aſtoniſhed and wonder.</p>
+               <p n="18">XVIII. Theſe ſeeke out and ſearch for the fatteſt Parſonages to feed themſelves, and to fit their carnall mindes, carefully preferring their Sonnes, their Chaplaines, their Friends, Kinſmen, and Favorites; endeavouring ſometime to deprive true Patrons by cunning ſhifts of the right of Patronage, to place in whom they pleaſe; reſpecting mens perſons, and not the ſpirituall good of the people.</p>
+               <p n="19">XIX. Theſe ſtudy carnally to their ut<g ref="char:EOLhyphen"/>moſt power, that they may hold up their owne greatneſſe, and not nouriſh people in goodneſſe: they ſtrive not againſt ſinne, but rather how to ſecure themſelves in their Lordly ſtanding.</p>
+               <p n="20">XX. This Prelacie therefore allow<g ref="char:EOLhyphen"/>eth of no ſuch Aſſemblies, for that
+<pb n="7" facs="tcp:124433:6"/>
+they fear thereby their own down<g ref="char:EOLhyphen"/>fall; and for that they onely would have the guiding of all, in all mat<g ref="char:EOLhyphen"/>ters Eccleſiaſticall.</p>
+               <p n="21">XXI. This is not allowed at any hand under this Prelacy, but inſtead thereof, in many Pariſhes is a blind Shepheard, or a prophane Mini<g ref="char:EOLhyphen"/>ſter, without learning, honeſty of life, and diſcretion to know how to governe. Secondly, there are two Church wardens, and with them two Side men; not choſen ever for their knowledge and godly life, but by houſe rous choſen they be, as the houſe falls, and in ſome pla<g ref="char:EOLhyphen"/>ces otherwiſe, but admitted to their charge not after a ſolemne manner, but by their names ſet downe in a booke their common office is knowne; neither Paſtor nor theſe have any rule Eccleſiaſti<g ref="char:EOLhyphen"/>call, but the Church-wardens muſt appeare twice yearly to forſweare themſelves at Viſitations, to pay money for a booke of Articles, and to make preſentments to the Eccle<g ref="char:EOLhyphen"/>ſiaſticall Courts, according to theſe Articles, onely to helpe the Ordi<g ref="char:EOLhyphen"/>nary, the Regiſters Apparitors with money, but nothing reform'd in mens lives, but perhaps glaſſe win<g ref="char:EOLhyphen"/>dowes, and Church walls amended, Bells broken, and Ropes prepared, Pulpits, Seats, Surpliſſes, and Communion Tables to be all fit; weighty matters.</p>
+               <p>There be alſo in every Pariſh over ſeers of the poore, ſuch as they bee.</p>
+               <pb n="8" facs="tcp:124433:7"/>
+               <p n="22">XXII. By this their Prelaticall way, and want of the Parochian Seſſion, all things goe awry, and great is the ſpirituall miſery of the people; they live in much ignorance, little power is there of the life of religi<g ref="char:EOLhyphen"/>on, their worſhip is but cuſtomary, the Sacrament is greatly propha<g ref="char:EOLhyphen"/>ned by unworthy Communicants, open drunkards, knowne adulte<g ref="char:EOLhyphen"/>rers, common ſwearers, &amp;c.</p>
+               <p>On the holy Sabbath the Lord is diſhonoured, much vice raigning among them, in them; their fami<g ref="char:EOLhyphen"/>lies, (to the great griefe of ſuch as feare God) who complaining of them, ſhall be heard; perhaps it may be for the Court to get money, but if others complaine of theſe, they ſhall ſurely feele the weight of malice and ill will.</p>
+               <p n="23">XXIII. Under this Prelacie is no ſuch Presbyteriall Aſſembly.</p>
+               <p>Here are certaine Deanaries, in every of which is held an idle Vi<g ref="char:EOLhyphen"/>ſitation by an Archdeacon, or his Subſtitute once in halfe a yeare, to this reſort all the Miniſters within that Deanary where the Viſitation is kept.</p>
+               <p>Hereto come the Church-war<g ref="char:EOLhyphen"/>dens and Side-men, and ſuch as have Wills to prove.</p>
+               <p>Where we have a Sermon made by ſuch a one as the Archdeacon ſhall get &amp; appoint, after which all
+<pb n="9" facs="tcp:124433:7"/>
+the Miniſters by name are call'd to ſhew their appearance, but no try<g ref="char:EOLhyphen"/>all of their gifts, nor any ſuch things as be mentioned in the Presbytery: they pay there their Paſchals and Procurations, but none hardly know why. Then the Church<g ref="char:EOLhyphen"/>wardens &amp; Side-men are called, &amp; an Oath adminiſtred, with Articles to make their preſentments by; then if any have Wills to prove, they bring them, and an Oath is al<g ref="char:EOLhyphen"/>ſo adminiſtred to the Executor.</p>
+               <p>Which done, the Aſſembly breakes up to goe to dinner; after which, the Church-wardens and Side-men doe come againe before the Judge of the Court to give in their preſentments.</p>
+               <p>This done, all is ended without a bleſſing.</p>
+               <p n="24">XXIV. Here is no ſuch Provinciall Sy<g ref="char:EOLhyphen"/>nod, but the Prelates trienniall Vi<g ref="char:EOLhyphen"/>ſitation, whither doe come all the Miniſters out of every Deanary, one day after another, where the Prelate is, which commonly is at the Cathedrall Church, where he ſits with his Chancellors. It's be<g ref="char:EOLhyphen"/>gun with a Sermon, after which the Prelate makes a Speech, ſuch as he pleaſeth to utter.</p>
+               <p>Here is calling of Miniſters and Church-wardens, but no tryall of Miniſters gifts, nor enquiry of their proficiency; but here is paying of Procurations, &amp; buying of Licenſes
+<pb n="10" facs="tcp:124433:8"/>
+to rade prayers and to preach, and giving money to the gentleman Apparitor.</p>
+               <p>The Church-wardens made to ſweare, and are to buy a booke of Articles, and make preſentments to the Chancellour, who receives their Bils.</p>
+               <p>Here the Miniſters ſhew their Orders and Licenſes (ſuch as have them) to the Regiſter, who gets much money for them.</p>
+               <p>If the Prelate have any private buſineſſe with this Clergy, or to crave a benevolence, (which dare not be denyed him) he calls them together in private by themſelves.</p>
+               <p>Which ended, they may depart and goe as they came, without any religious care of them: the Prelate goes to his Pallace with his traine, and the Chancellor by an Apparator invites the abler ſort of Miniſters to dine with him at an Inne, to their proper coſt.</p>
+               <p n="25">XXV. Here is no ſuch Nationall Aſſem<g ref="char:EOLhyphen"/>bly, but a meeting called a Convo<g ref="char:EOLhyphen"/>cation, when wee have a Parlia<g ref="char:EOLhyphen"/>ment, which is in two Provinces; one at <hi>Yorke,</hi> in which the Arch-Biſhop of <hi>Yorke</hi> is Preſident; and the other at <hi>London,</hi> where the Archbiſhop of <hi>Canterbury</hi> is Pre<g ref="char:EOLhyphen"/>ſident; ruling and commanding, or cunningly contriving to bring a<g ref="char:EOLhyphen"/>bout what ever pleaſeth him.</p>
+               <p>Here meet all the Prelates, all the great Deanes and Archdeacons, and the reſt of the Prelaticall body; and to theſe come two Miniſters called Clerks out of every Dioceſſe, to repreſent all the reſt of the Mi<g ref="char:EOLhyphen"/>niſters:
+<pb n="11" facs="tcp:124433:8"/>
+choſen theſe ſhould be free<g ref="char:EOLhyphen"/>ly by the reſt of their brethren; but are appointed by the Lording Pre<g ref="char:EOLhyphen"/>lates, ſuch as they beſt like of<g ref="char:punc">▪</g> The Nobles and Gentry have nothing to doe here; the Prelates have ever had the Laitie, as they call them in contempt, ſcorning they ſhould meddle in cauſes Eccleſiaſticall, though never ſo learned and wiſe: here their corrupt dealing need not to be further laid open, it's ſo open<g ref="char:EOLhyphen"/>ly knowne and condemned by the Parliament.</p>
+               <p n="26">XXVI. By the unhappy want of ſuch lively meanes here, and the over<g ref="char:EOLhyphen"/>topping power of this Prelacie; many painfull Miniſters have beene ſuppreſſed, many people have been grieved, Papiſts, Atheiſts, Semi-pe<g ref="char:EOLhyphen"/>lagian Hereticks have encreaſed; Separatiſts (through the Prelates ſeverity in preſſing of Ceremonies) have multiplyed, the prophane have growne into much baſeneſſe, more and more by their proclai<g ref="char:EOLhyphen"/>ming of liberty to prophane the Lords day; and by their corrupt Courts: the proofe hereof is the common experience of all this Land.</p>
+               <p n="27">XXVII. Under this Prelacy and Prelati<g ref="char:EOLhyphen"/>call Government, much preaching is not valued, but rather ſuppreſſed, as it of late hath beene.</p>
+               <p>They give no heartning to peo<g ref="char:EOLhyphen"/>ple to follow the means of know<g ref="char:EOLhyphen"/>ledge
+<pb n="12" facs="tcp:124433:9"/>
+conferring after Sermons, reading together of good bookes, ſinging of Pſalmes, and praying together, and ſuch Chriſtian mee<g ref="char:EOLhyphen"/>tings, fill Prelaticall ſpirits with the ſpirit of Jealouſie, &amp; cauſeth them to hunt after ſuch perſons, and to cite them for Conventiclers; where<g ref="char:EOLhyphen"/>by they hinder the growth of grace, and the increaſe of Chriſti<g ref="char:EOLhyphen"/>an love, knowledge, faith, and god<g ref="char:EOLhyphen"/>ly watchfulneſſe one over another, much to be wiſhed.</p>
+               <p n="28">XXVIII. This hath all worldly allurements whatſoever may entice carnall mindes to entertain and hold it up, as greatneſſe, riches and pompe, glory, high eſtates in dignitie, plea<g ref="char:EOLhyphen"/>ſure and profit, eaſe, and what not, that may favour of the fleſh, the fruits whereof are peoples ig<g ref="char:EOLhyphen"/>norance, prophaneneſſe, licenci<g ref="char:EOLhyphen"/>ouſneſſe, liberty, neglect in moſt, and contempt in many holy duties, privately and in families, reigning ſinnes in publike, to be with teares lamented, no way to be ſuffered nor is ſuffered in a right ordered Church Government.</p>
+               <p n="29">XXIX. This is the government of the Papall power, under that Romiſh Antichriſt, againſt which we make open profeſſion; and is a governe<g ref="char:EOLhyphen"/>ment rejected by all the Churches
+<pb n="13" facs="tcp:124433:9"/>
+reformed, and caſt out as hurtfull to the Church of Chriſt, and to a Civill State; and is now ſo judged to be by many worthies in Parlia<g ref="char:EOLhyphen"/>ment, and that very juſtly.</p>
+               <p n="30">XXX. This hath beene upheld by ſel<g ref="char:EOLhyphen"/>dome preaching Prelates, by the like Doctors, by Pluraliſts and Non-reſidents, Idle Miniſters, De<g ref="char:EOLhyphen"/>pendants upon Eccleſiaſticall Courts, ſuch as eate of the fat, and hope for preferment to themſelves and to theirs; theſe have beene perſecutors, but voluntarily never came to ſuffer for meere Prelacie, but for other miſdemeanors, if they have ſuffered.</p>
+               <p>Laſtly, this hath ſtood up full foureſcore yeares, and is well knowne with the unhappie fruits of it; and therefore voted againſt in the Houſe of Commons.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
